@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\3rdCohort\Zainab\bin\Debug\net8.0\Zainab.exe
+C:\Users\USER\Desktop\3rdCohort\Zainab\bin\Debug\net8.0\Zainab.deps.json
+C:\Users\USER\Desktop\3rdCohort\Zainab\bin\Debug\net8.0\Zainab.runtimeconfig.json
+C:\Users\USER\Desktop\3rdCohort\Zainab\bin\Debug\net8.0\Zainab.dll
+C:\Users\USER\Desktop\3rdCohort\Zainab\bin\Debug\net8.0\Zainab.pdb
+C:\Users\USER\Desktop\3rdCohort\Zainab\obj\Debug\net8.0\Zainab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\3rdCohort\Zainab\obj\Debug\net8.0\Zainab.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\3rdCohort\Zainab\obj\Debug\net8.0\Zainab.AssemblyInfo.cs
+C:\Users\USER\Desktop\3rdCohort\Zainab\obj\Debug\net8.0\Zainab.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\3rdCohort\Zainab\obj\Debug\net8.0\Zainab.dll
+C:\Users\USER\Desktop\3rdCohort\Zainab\obj\Debug\net8.0\refint\Zainab.dll
+C:\Users\USER\Desktop\3rdCohort\Zainab\obj\Debug\net8.0\Zainab.pdb
+C:\Users\USER\Desktop\3rdCohort\Zainab\obj\Debug\net8.0\Zainab.genruntimeconfig.cache
+C:\Users\USER\Desktop\3rdCohort\Zainab\obj\Debug\net8.0\ref\Zainab.dll
